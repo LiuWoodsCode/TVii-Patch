@@ -1,5 +1,5 @@
 #ur0 is default
-url0:https://tvii-prod.l1.us.vino.wup.app.projectrose.cafe/
+url0:http://192.168.2.2
 
 # on/off debug print of client
 CallbackDebugPrint:0
@@ -10,7 +10,7 @@ AddTimeStampToDebugPrint:0
 # 0/1 download whitelist with/without Verifying service-token
 # 0 download the white-list without service-token on http-request-header
 # 1 download the white-list with service-token on http-request-header
-WhiteList_VerifyServiceToken:1
+WhiteList_VerifyServiceToken:0
 
 # 0/1 use whitelist cache on NAND
 WhiteList_UseCache:0
@@ -71,7 +71,7 @@ WhiteList_Path:https://web-jp.l1.jp.vino.wup.app.projectrose.cafe/whitelist.txt?
 # Allow 'file:' and 'http:' scheme. Finally, it is set to 'Not Allow'
 # 0:Not Allow
 # 1:Allow
-AllowDebugScheme:0
+AllowDebugScheme:1
 
 # LoadingIcon
 # 0:Not Draw Icon at Pre-loading
