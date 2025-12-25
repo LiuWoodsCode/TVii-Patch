@@ -1,5 +1,5 @@
 #ur0 is default
-url0:http://stickerbomb.local
+url0:http://192.168.1.151
 
 # on/off debug print of client
 CallbackDebugPrint:0
