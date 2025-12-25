@@ -1,5 +1,5 @@
 #ur0 is default
-url0:https://whitelist.l1.us.vino.wup.app.projectrose.cafe/
+url0:http://stickerbomb.local
 
 # on/off debug print of client
 CallbackDebugPrint:0
@@ -71,7 +71,7 @@ WhiteList_Path:https://web-jp.l1.jp.vino.wup.app.projectrose.cafe/whitelist.txt?
 # Allow 'file:' and 'http:' scheme. Finally, it is set to 'Not Allow'
 # 0:Not Allow
 # 1:Allow
-AllowDebugScheme:0
+AllowDebugScheme:1
 
 # LoadingIcon
 # 0:Not Draw Icon at Pre-loading
